@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+.newsletter-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.app-header {
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  background-color: #ccdbdc;
+}
+
+.btn-add {
+  height: 30px;
+  padding: 10px;
+}
+
+body {
+  background-color: black;
+}
